@@ -1,0 +1,13 @@
+2024-08-06 13:20:13,899 :INFO :pytestdemo.BaseClass : rahul
+2024-08-06 13:20:13,899 :INFO :pytestdemo.BaseClass : rahulshettyacademy.com
+2024-08-06 13:24:53,313 :INFO :pytestdemo.BaseClass : rahul
+2024-08-06 13:24:53,313 :INFO :pytestdemo.BaseClass : rahulshettyacademy.com
+2024-08-06 13:25:09,080 :INFO :pytestdemo.BaseClass : rahul
+2024-08-06 13:25:09,081 :INFO :pytestdemo.BaseClass : rahulshettyacademy.com
+2024-08-06 13:26:15,760 :INFO :pytestdemo.BaseClass : rahul
+2024-08-06 13:26:15,760 :INFO :pytestdemo.BaseClass : rahulshettyacademy.com
+2024-08-06 13:28:05,900 :INFO :test_editprofile : rahul
+2024-08-06 13:28:05,900 :INFO :test_editprofile : rahulshettyacademy.com
+2024-08-06 13:30:00,123 :INFO :test_editprofile : rahul
+2024-08-06 13:30:00,124 :INFO :test_editprofile : rahulshettyacademy.com
+2024-08-06 13:30:00,132 :CRITICAL :pytestdemo.test_logging : critical msg

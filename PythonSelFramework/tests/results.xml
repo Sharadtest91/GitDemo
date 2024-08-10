@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="2" failures="0" skipped="0" tests="2" time="0.098" timestamp="2024-08-07T18:32:47.205600" hostname="Sharads-MacBook-Pro.local"><testcase classname="" name="test_HomePage" time="0.000"><error message="collection failure">ImportError while importing test module '/Users/sharadbhatnagar/PycharmProjects/PythonSelFramework/tests/test_HomePage.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/opt/anaconda3/lib/python3.9/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+test_HomePage.py:6: in &lt;module&gt;
+    from TestData.HomePageData import HomePageData
+E   ModuleNotFoundError: No module named 'TestData'</error></testcase><testcase classname="" name="test_e2e" time="0.000"><error message="collection failure">ImportError while importing test module '/Users/sharadbhatnagar/PycharmProjects/PythonSelFramework/tests/test_e2e.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/opt/anaconda3/lib/python3.9/importlib/__init__.py:127: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+test_e2e.py:11: in &lt;module&gt;
+    from PageObjects.CheckoutPage import CheckOutPage
+E   ModuleNotFoundError: No module named 'PageObjects'</error></testcase></testsuite></testsuites>
